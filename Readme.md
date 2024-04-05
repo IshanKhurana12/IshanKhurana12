@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://github.com/IshanKhurana12/IshanKhurana12/blob/main/snake.yml"/>
+<img src="https://raw.githubusercontent.com/IshanKhurana12/IshanKhurana12/snake.svg"/>
 ###
 
 <p align="left">Hello World!!</p>
