@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IshanKhurana12/IshanKhurana12/snake.svg"/>
+<img src='https://www.pluggedin.com/wp-content/uploads/2021/12/Halo-Infinite-1024x587.png' />
 ###
 
 <p align="left">Hello World!!</p>
