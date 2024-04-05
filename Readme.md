@@ -42,8 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IshanKhurana12/IshanKhurana12/output/snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/IshanKhurana12/IshanKhurana12/blob/main/snake.yml"/>
 ###
 
 <p align="left">Hello World!!</p>
